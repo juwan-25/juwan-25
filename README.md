@@ -14,6 +14,7 @@
 <h3 ><b>:cloud: Me :cloud:</b></h3>
 <p>
 <a href="https://github.com/juwan-25" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://velog.io/@juwan-25" target="_blank"><img src="https://img.shields.io/badge/velog-63CFA8?style=for-the-badge&logo=vimeo&logoColor=white"></a>
 <a href="https://www.instagram.com/wwn_25/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </br>
 
